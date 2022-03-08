@@ -7,7 +7,8 @@
 ---
 ## Problems List
 > 연습 목록입니다.<br>
-완료 = ✅<br>
-진행중 = ❗️
+완료: ✅<br>
+진행중: ❗️<br><br>
+각 항목들은 번호 순서대로 나열했습니다.
 
 - ### 67. <a href="https://leetcode.com/problems/add-binary/" target="_blank">Add Binary</a> ✅
