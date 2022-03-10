@@ -51,7 +51,7 @@ let a = "100";
 let b = "110010";
 console.log(addBinary(a, b));
 
-// --------------- 라이브러리 사용
+// --------------- Built-in 사용
 // BigInt로 10진수 변환
 // 계산 후 toString 으로 2진수 변환
 var addBinary_1 = function (a, b) {
