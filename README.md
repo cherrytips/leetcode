@@ -18,4 +18,5 @@
 - ### 94. <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/" target="_blank">Binary Tree Inorder Traversal</a> ✅
 - ### 100. <a href="https://leetcode.com/problems/same-tree/" target="_blank">Same Tree</a> ✅
 - ### 101. <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank">Symmetric Tree</a> ✅
+- ### 121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best Time to Buy and Sell Stock</a> ❗️
 - ### 136. <a href="https://leetcode.com/problems/single-number/" target="_blank">Single Number</a> ✅
