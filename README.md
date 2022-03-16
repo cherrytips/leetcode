@@ -10,6 +10,7 @@
 > 진행중: ❗️<br>
 > --> 각 항목들은 번호 순서대로 나열
 
+- ### 7. <a href="https://leetcode.com/problems/reverse-integer/" target="_blank">Reverse Integer</a> ✅
 - ### 67. <a href="https://leetcode.com/problems/add-binary/" target="_blank">Add Binary</a> ✅
 - ### 69. <a href="https://leetcode.com/problems/sqrtx/" target="_blank">Sqrt(x)</a> ✅
 - ### 70. <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank">Climbing Stairs</a> ✅
