@@ -23,3 +23,4 @@
 - ### 136. <a href="https://leetcode.com/problems/single-number/" target="_blank">Single Number</a> ✅
 - ### 141. <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Linked List Cycle</a> ✅
 - ### 169. <a href="https://leetcode.com/problems/majority-element/" target="_blank">Majority Element</a> ✅
+- ### 202. <a href="https://leetcode.com/problems/happy-number/" target="_blank">Happy Number</a> ✅
