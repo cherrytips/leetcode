@@ -7,9 +7,11 @@
 ## Problems List - 연습 목록
 
 > 완료: ✅<br>
+> 추후 개선: 🔆<br>
 > 진행중: ❗️<br>
 > --> 각 항목들은 번호 순서대로 나열
 
+- ### 6. <a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">Zigzag Conversion</a> 🔆
 - ### 7. <a href="https://leetcode.com/problems/reverse-integer/" target="_blank">Reverse Integer</a> ✅
 - ### 67. <a href="https://leetcode.com/problems/add-binary/" target="_blank">Add Binary</a> ✅
 - ### 69. <a href="https://leetcode.com/problems/sqrtx/" target="_blank">Sqrt(x)</a> ✅
