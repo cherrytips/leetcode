@@ -21,4 +21,5 @@
 - ### 118. <a href="https://leetcode.com/problems/pascals-triangle/" target="_blank">Pascal's Triangle</a> ✅
 - ### 121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best Time to Buy and Sell Stock</a> ❗️
 - ### 136. <a href="https://leetcode.com/problems/single-number/" target="_blank">Single Number</a> ✅
+- ### 141. <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Linked List Cycle</a> ✅
 - ### 169. <a href="https://leetcode.com/problems/majority-element/" target="_blank">Majority Element</a> ✅
