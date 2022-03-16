@@ -22,5 +22,6 @@
 - ### 121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best Time to Buy and Sell Stock</a> ❗️
 - ### 136. <a href="https://leetcode.com/problems/single-number/" target="_blank">Single Number</a> ✅
 - ### 141. <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank">Linked List Cycle</a> ✅
+- ### 160. <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/" target="_blank">Intersection of Two Linked Lists</a> ✅
 - ### 169. <a href="https://leetcode.com/problems/majority-element/" target="_blank">Majority Element</a> ✅
 - ### 202. <a href="https://leetcode.com/problems/happy-number/" target="_blank">Happy Number</a> ✅
