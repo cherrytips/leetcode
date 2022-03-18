@@ -34,4 +34,5 @@
 - ### 258. <a href="https://leetcode.com/problems/add-digits/" target="_blank">Add Digits</a> ✅
 - ### 283. <a href="https://leetcode.com/problems/move-zeroes/" target="_blank">Move Zeroes</a> ✅
 - ### 344. <a href="https://leetcode.com/problems/reverse-string/" target="_blank">Reverse String</a> ✅
+- ### 374. <a href="https://leetcode.com/problems/guess-number-higher-or-lower/" target="_blank">Guess Number Higher or Lower</a> ✅
 - ### 541. <a href="https://leetcode.com/problems/reverse-string-ii/" target="_blank">Reverse String 2</a> ✅
