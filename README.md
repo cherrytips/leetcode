@@ -31,3 +31,5 @@
 - ### 169. <a href="https://leetcode.com/problems/majority-element/" target="_blank">Majority Element</a> ✅
 - ### 202. <a href="https://leetcode.com/problems/happy-number/" target="_blank">Happy Number</a> ✅
 - ### 203. <a href="https://leetcode.com/problems/remove-linked-list-elements/" target="_blank">Remove Linked List Elements</a> ✅
+- ### 258. <a href="https://leetcode.com/problems/add-digits/" target="_blank">Add Digits</a> ✅
+- ### 283. <a href="https://leetcode.com/problems/move-zeroes/" target="_blank">Move Zeroes</a> ✅
