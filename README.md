@@ -20,6 +20,7 @@
 - ### 7. <a href="https://leetcode.com/problems/reverse-integer/" target="_blank" rel="noopener">Reverse Integer</a> ✅ M
 - ### 11. <a href="https://leetcode.com/problems/container-with-most-water/" target="_blank" rel="noopener">Container With Most Water</a> ✅ M
 - ### 24. <a href="https://leetcode.com/problems/swap-nodes-in-pairs/" target="_blank" rel="noopener">Swap Nodes in Pairs</a> ✅ M
+- ### 36. <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank" rel="noopener">Valid Sudoku</a> 🔆 M - Set() 사용하여 개선 가능
 - ### 67. <a href="https://leetcode.com/problems/add-binary/" target="_blank" rel="noopener">Add Binary</a> ✅ E
 - ### 69. <a href="https://leetcode.com/problems/sqrtx/" target="_blank" rel="noopener">Sqrt(x)</a> ✅ E
 - ### 70. <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank" rel="noopener">Climbing Stairs</a> ✅ E
