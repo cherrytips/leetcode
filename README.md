@@ -23,6 +23,7 @@
 - ### 36. <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank" rel="noopener">Valid Sudoku</a> 🔆 M - Set() 사용하여 개선 가능
 - ### 38. <a href="https://leetcode.com/problems/count-and-say/" target="_blank" rel="noopener">Count and Say</a> ✅ M
 - ### 39. <a href="https://leetcode.com/problems/combination-sum/" target="_blank" rel="noopener">Combination Sum</a> ❗️ M
+- ### 66. <a href="https://leetcode.com/problems/plus-one/" target="_blank" rel="noopener">Plus One</a> ✅ E
 - ### 67. <a href="https://leetcode.com/problems/add-binary/" target="_blank" rel="noopener">Add Binary</a> ✅ E
 - ### 69. <a href="https://leetcode.com/problems/sqrtx/" target="_blank" rel="noopener">Sqrt(x)</a> ✅ E
 - ### 70. <a href="https://leetcode.com/problems/climbing-stairs/" target="_blank" rel="noopener">Climbing Stairs</a> ✅ E
@@ -33,8 +34,10 @@
 - ### 101. <a href="https://leetcode.com/problems/symmetric-tree/" target="_blank" rel="noopener">Symmetric Tree</a> ✅ E
 - ### 118. <a href="https://leetcode.com/problems/pascals-triangle/" target="_blank" rel="noopener">Pascal's Triangle</a> ✅ E
 - ### 121. <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank" rel="noopener">Best Time to Buy and Sell Stock</a> ❗️ E
+- ### 134. <a href="https://leetcode.com/problems/gas-station/" target="_blank" rel="noopener">Gas Station</a> ❗️ M
 - ### 136. <a href="https://leetcode.com/problems/single-number/" target="_blank" rel="noopener">Single Number</a> ✅ E
 - ### 141. <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank" rel="noopener">Linked List Cycle</a> ✅ E
+- ### 143. <a href="https://leetcode.com/problems/reorder-list/submissions/" target="_blank" rel="noopener">Reorder List</a> ✅ M
 - ### 160. <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/" target="_blank" rel="noopener">Intersection of Two Linked Lists</a> ✅ E
 - ### 169. <a href="https://leetcode.com/problems/majority-element/" target="_blank" rel="noopener">Majority Element</a> ✅ E
 - ### 202. <a href="https://leetcode.com/problems/happy-number/" target="_blank" rel="noopener">Happy Number</a> ✅ E
