@@ -38,6 +38,8 @@
 - ### 136. <a href="https://leetcode.com/problems/single-number/" target="_blank" rel="noopener">Single Number</a> ✅ E
 - ### 141. <a href="https://leetcode.com/problems/linked-list-cycle/" target="_blank" rel="noopener">Linked List Cycle</a> ✅ E
 - ### 143. <a href="https://leetcode.com/problems/reorder-list/submissions/" target="_blank" rel="noopener">Reorder List</a> ✅ M
+- ### 144. <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/" target="_blank" rel="noopener">Binary Tree Preorder Traversal</a> ✅ E
+- ### 155. <a href="https://leetcode.com/problems/min-stack/" target="_blank" rel="noopener">Min Stack</a> ✅ E
 - ### 160. <a href="https://leetcode.com/problems/intersection-of-two-linked-lists/" target="_blank" rel="noopener">Intersection of Two Linked Lists</a> ✅ E
 - ### 169. <a href="https://leetcode.com/problems/majority-element/" target="_blank" rel="noopener">Majority Element</a> ✅ E
 - ### 202. <a href="https://leetcode.com/problems/happy-number/" target="_blank" rel="noopener">Happy Number</a> ✅ E
