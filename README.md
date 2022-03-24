@@ -23,6 +23,7 @@
 - ### 36. <a href="https://leetcode.com/problems/valid-sudoku/" target="_blank" rel="noopener">Valid Sudoku</a> 🔆 M - Set() 사용하여 개선 가능
 - ### 38. <a href="https://leetcode.com/problems/count-and-say/" target="_blank" rel="noopener">Count and Say</a> ✅ M
 - ### 39. <a href="https://leetcode.com/problems/combination-sum/" target="_blank" rel="noopener">Combination Sum</a> ❗️ M
+- ### 62. <a href="https://leetcode.com/problems/unique-paths/" target="_blank" rel="noopener">Unique Paths</a> ✅ M
 - ### 66. <a href="https://leetcode.com/problems/plus-one/" target="_blank" rel="noopener">Plus One</a> ✅ E
 - ### 67. <a href="https://leetcode.com/problems/add-binary/" target="_blank" rel="noopener">Add Binary</a> ✅ E
 - ### 69. <a href="https://leetcode.com/problems/sqrtx/" target="_blank" rel="noopener">Sqrt(x)</a> ✅ E
