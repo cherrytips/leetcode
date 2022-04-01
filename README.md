@@ -46,6 +46,7 @@
 - ### 162. <a href="https://leetcode.com/problems/find-peak-element/" target="_blank" rel="noopener">Find Peak Element</a> ✅ M
 - ### 165. <a href="https://leetcode.com/problems/compare-version-numbers/" target="_blank" rel="noopener">Compare Version Numbers</a> ✅ M
 - ### 169. <a href="https://leetcode.com/problems/majority-element/" target="_blank" rel="noopener">Majority Element</a> ✅ E
+- ### 187. <a href="https://leetcode.com/problems/repeated-dna-sequences/" target="_blank" rel="noopener">Repeated DNA Sequences</a> ❗️ M
 - ### 202. <a href="https://leetcode.com/problems/happy-number/" target="_blank" rel="noopener">Happy Number</a> ✅ E
 - ### 203. <a href="https://leetcode.com/problems/remove-linked-list-elements/" target="_blank" rel="noopener">Remove Linked List Elements</a> ✅ E
 - ### 258. <a href="https://leetcode.com/problems/add-digits/" target="_blank" rel="noopener">Add Digits</a> ✅ E
