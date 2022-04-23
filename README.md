@@ -60,4 +60,5 @@
 - ### 383. <a href="https://leetcode.com/problems/ransom-note/" target="_blank" rel="noopener">Ransom Note</a> ✅ E
 - ### 387. <a href="https://leetcode.com/problems/first-unique-character-in-a-string/" target="_blank" rel="noopener">First Unique Character in a String</a> ✅ E
 - ### 389. <a href="https://leetcode.com/problems/find-the-difference/" target="_blank" rel="noopener">Find the Difference</a> ✅ E
+- ### 412. <a href="https://leetcode.com/problems/fizz-buzz/" target="_blank" rel="noopener">Fizz Buzz</a> ✅ E
 - ### 541. <a href="https://leetcode.com/problems/reverse-string-ii/" target="_blank" rel="noopener">Reverse String 2</a> ✅ E
