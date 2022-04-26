@@ -63,4 +63,5 @@
 - ### 389. <a href="https://leetcode.com/problems/find-the-difference/" target="_blank" rel="noopener">Find the Difference</a> ✅ E
 - ### 412. <a href="https://leetcode.com/problems/fizz-buzz/" target="_blank" rel="noopener">Fizz Buzz</a> ✅ E
 - ### 414. <a href="https://leetcode.com/problems/third-maximum-number/" target="_blank" rel="noopener">Third Maximum Number</a> ✅ E
+- ### 451. <a href="https://leetcode.com/problems/sort-characters-by-frequency/" target="_blank" rel="noopener">Sort Characters By Frequency</a> ✅ M
 - ### 541. <a href="https://leetcode.com/problems/reverse-string-ii/" target="_blank" rel="noopener">Reverse String 2</a> ✅ E
